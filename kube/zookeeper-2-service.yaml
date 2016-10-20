@@ -15,7 +15,7 @@ spec:
       port: 2888
     - name: election
       port: 3888
-  clusterIP: 10.200.10.32
+  clusterIP: 10.219.255.102
   type: ClusterIP
   selector:
     name: zookeeper-2

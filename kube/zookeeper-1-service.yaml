@@ -9,7 +9,7 @@ metadata:
     zookeeper_id: "1"
 spec:
   type: ClusterIP
-  clusterIP: 10.200.10.31
+  clusterIP: 10.219.255.101
   ports:
     - name: client
       port: 2181
